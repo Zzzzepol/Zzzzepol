@@ -41,7 +41,7 @@ I'm **King Andryll Lopez**, an IT student in the Philippines and an aspiring ful
 | **Backend** | Node.js · Express · MongoDB · Mongoose · Firebase · Zod · REST APIs · JWT auth |
 | **Data** | PostgreSQL · Prisma · Supabase (Auth and Storage) |
 | **Systems** | Linux · Bash scripting · systemd monitoring |
-| **Languages** | JavaScript · TypeScript · Python · Shell |
+| **Languages** | JavaScript · TypeScript · Python · C++ ·Shell |
 
 ---
 
