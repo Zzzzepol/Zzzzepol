@@ -31,7 +31,7 @@ I'm **King Andryll Lopez**, an IT student in the Philippines and an aspiring ful
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb&theme=dark" alt="Frontend and backend skills" /><br/>
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,postgres,prisma,supabase,firebase,git,vercel&theme=dark" alt="Languages, data, and tooling" />
+  <img src="https://skillicons.dev/icons?i=python, c++, bash,linux,postgres,prisma,supabase,firebase,git,vercel&theme=dark" alt="Languages, data, and tooling" />
 </p>
 
 | Domain | Tools |
