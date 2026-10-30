@@ -20,9 +20,10 @@
 
 I'm **King Andryll Lopez**, an IT student in the Philippines and an aspiring full-stack developer. I like building systems that hold up under pressure: clean APIs, honest data models, and interfaces that stay usable when things get rough.
 
-- Building **Hestia**, a shared household inventory app with a React Native client and an Express + PostgreSQL API
+- Building **Hestia**, a shared household inventory app with a React Native client and an Express + PostgreSQL API, designed around idempotent requests, row-level security, and race-safe stock and loan handling
 - Growing across the stack: frontend, backend, databases, and server automation
 - Learning to write code that's secure, tested, and easy to maintain
+- Collaborating on team projects like **Sift** and **periperi**
 - Based in **UTC+8**, open to collaboration, internships, and conversation
 
 ---
@@ -37,11 +38,12 @@ I'm **King Andryll Lopez**, an IT student in the Philippines and an aspiring ful
 | Domain | Tools |
 | :-- | :-- |
 | **Frontend** | HTML · CSS · JavaScript · TypeScript · React · React Router · Tailwind CSS · Chart.js |
-| **Mobile** | React Native · Expo · Expo Router · TanStack Query |
+| **Mobile** | React Native · Expo · Expo Router · TanStack Query · Expo Push Notifications |
 | **Backend** | Node.js · Express · MongoDB · Mongoose · Firebase · Zod · REST APIs · JWT auth |
-| **Data** | PostgreSQL · Prisma · Supabase (Auth and Storage) |
+| **Data** | PostgreSQL · Prisma · Supabase (Auth and Storage) · Row-level security |
+| **Testing** | Vitest · Supertest |
 | **Systems** | Linux · Bash scripting · systemd monitoring |
-| **Languages** | JavaScript · TypeScript · Python · C++ ·Shell |
+| **Languages** | JavaScript · TypeScript · Python · C++ · Shell |
 
 ---
 
@@ -51,8 +53,8 @@ I'm **King Andryll Lopez**, an IT student in the Philippines and an aspiring ful
   <tr>
     <td width="50%" valign="top">
       <h3>Hestia</h3>
-      <p>Shared household and group inventory for consumables and returnables. Tracks stock, runs the full borrow-to-return workflow, and sends reminders.</p>
-      <p><b>Expo · React Native · Express · Prisma · PostgreSQL · Supabase</b></p>
+      <p>Shared inventory for households and small groups. Tracks consumable stock, runs the full borrow-to-return workflow, and sends push reminders. Backed by database-level guarantees: row locking, CHECK constraints, triggers, and append-only history.</p>
+      <p><b>Expo · React Native · TypeScript · Express · Prisma · PostgreSQL · Supabase</b></p>
       <a href="https://github.com/Zzzzepol/Hestia">View repository →</a>
     </td>
     <td width="50%" valign="top">
@@ -74,6 +76,14 @@ I'm **King Andryll Lopez**, an IT student in the Philippines and an aspiring ful
       <p>An offline, AI-powered platform for learning to read and debug HTML, CSS, JavaScript, and Python through guided challenges.</p>
       <p><b>Python · Team project</b></p>
       <a href="https://github.com/Borsibels/Sift">View repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>periperi</h3>
+      <p>A JavaScript project built in collaboration with <a href="https://github.com/cayenno1">@cayenno1</a>.</p>
+      <p><b>JavaScript · Team project</b></p>
+      <a href="https://github.com/cayenno1/periperi">View repository →</a>
     </td>
   </tr>
 </table>
