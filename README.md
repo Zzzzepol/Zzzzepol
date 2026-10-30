@@ -23,7 +23,7 @@ I'm **King Andryll Lopez**, an IT student in the Philippines and an aspiring ful
 - Building **Hestia**, a shared household inventory app with a React Native client and an Express + PostgreSQL API, designed around idempotent requests, row-level security, and race-safe stock and loan handling
 - Growing across the stack: frontend, backend, databases, and server automation
 - Learning to write code that's secure, tested, and easy to maintain
-- Collaborating on team projects like **Sift** and **periperi**
+- Built **Teatro**, a Python Discord bot for film clubs, and collaborated on team projects like **Sift**
 - Based in **UTC+8**, open to collaboration, internships, and conversation
 
 ---
@@ -32,17 +32,17 @@ I'm **King Andryll Lopez**, an IT student in the Philippines and an aspiring ful
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb&theme=dark" alt="Frontend and backend skills" /><br/>
-  <img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,postgres,prisma,supabase,firebase,git,vercel&theme=dark" alt="Languages, data, and tooling" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,docker,postgres,sqlite,prisma,supabase,firebase,git,vercel&theme=dark" alt="Languages, data, and tooling" />
 </p>
 
 | Domain | Tools |
 | :-- | :-- |
 | **Frontend** | HTML · CSS · JavaScript · TypeScript · React · React Router · Tailwind CSS · Chart.js |
 | **Mobile** | React Native · Expo · Expo Router · TanStack Query · Expo Push Notifications |
-| **Backend** | Node.js · Express · MongoDB · Mongoose · Firebase · Zod · REST APIs · JWT auth |
-| **Data** | PostgreSQL · Prisma · Supabase (Auth and Storage) · Row-level security |
-| **Testing** | Vitest · Supertest |
-| **Systems** | Linux · Bash scripting · systemd monitoring |
+| **Backend** | Node.js · Express · MongoDB · Mongoose · Firebase · Zod · REST APIs · JWT auth · discord.py · TMDB API |
+| **Data** | PostgreSQL · SQLite · Prisma · Supabase (Auth and Storage) · Row-level security |
+| **Testing** | Vitest · Supertest · unittest |
+| **Systems** | Linux · Bash scripting · systemd monitoring · Docker |
 | **Languages** | JavaScript · TypeScript · Python · C++ · Shell |
 
 ---
@@ -80,10 +80,10 @@ I'm **King Andryll Lopez**, an IT student in the Philippines and an aspiring ful
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>periperi</h3>
-      <p>A JavaScript project built in collaboration with <a href="https://github.com/cayenno1">@cayenno1</a>.</p>
-      <p><b>JavaScript · Team project</b></p>
-      <a href="https://github.com/cayenno1/periperi">View repository →</a>
+      <h3>Teatro</h3>
+      <p>A Discord film-club bot that posts a daily film pick with IMDb, Rotten Tomatoes, and Metacritic scores, trailers, and streaming info. Includes voting, a shared watchlist, movie-night polls that create scheduled events, and trivia.</p>
+      <p><b>Python · discord.py · TMDB · OMDb · SQLite · Docker</b></p>
+      <a href="https://github.com/Zzzzepol/Teatro">View repository →</a>
     </td>
   </tr>
 </table>
@@ -93,7 +93,6 @@ I'm **King Andryll Lopez**, an IT student in the Philippines and an aspiring ful
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Zzzzepol&show_icons=true&hide_border=false&bg_color=0E0D0B&title_color=B65A32&text_color=E3B98A&icon_color=B65A32&border_color=B65A32&rank_icon=github" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zzzzepol&layout=compact&bg_color=0E0D0B&title_color=B65A32&text_color=E3B98A&border_color=B65A32" alt="Top languages" />
 </p>
 
